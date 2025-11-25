@@ -13,7 +13,18 @@
 
     <script>
       function App() {
-        return React.createElement("h1", null, "Hello React");
+        const [time, setTime] = React.useState(new Date().toLocaleDateString());
+
+        React.useEffect(() => {
+          const intervalId = setInterval(() => {
+            setTime(new Date().toLocaleDateString());
+          }, 1000);
+
+          // Cleanup on unmount
+          return () => clearInterval(intervalId);
+        }, []); // Empty dependency array = runs once on mount
+
+        return React.createElement("h1", null, "Current Date: ", time);
       }
 
       const root = ReactDOM.createRoot(document.getElementById("root"));
