@@ -1,3 +1,1 @@
-## ✨ Features
 
-# 🍕 Pizza Menu
