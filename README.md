@@ -11,5 +11,3 @@ A simple and responsive pizza menu built with HTML, CSS, and optionally JavaScri
 - Ingredient highlights and pricing
 - Print-friendly design (optional)
 - Fast loading and no external dependencies (if plain HTML/CSS)
-
-## 🛠️ Technologies Used
