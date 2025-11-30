@@ -13,7 +13,3 @@ A simple and responsive pizza menu built with HTML, CSS, and optionally JavaScri
 - Fast loading and no external dependencies (if plain HTML/CSS)
 
 ## 🛠️ Technologies Used
-
-- HTML5
-- CSS3 (Flexbox/Grid)
-- (Optional) JavaScript or React (if applicable)
