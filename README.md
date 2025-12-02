@@ -4,5 +4,3 @@ Go to C:\Users\19199\OneDrive\Desktop\pizza-menu
 Locate the index.html file inside that folder.
 Double-click the index.html file.
 → This will open it automatically in your default web browser (Chrome, Edge, Firefox, etc.).
-You should now see your pizza menu displayed in the browser!
-🔍 Notes
