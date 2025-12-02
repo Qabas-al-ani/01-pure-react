@@ -8,4 +8,3 @@ You should now see your pizza menu displayed in the browser!
 🔍 Notes
 This works without any server, terminal, or extra tools because HTML files are static and browsers can render them directly.
 If your HTML file uses local CSS or images, make sure they are in the correct folder (e.g., style.css in the same directory or a subfolder like css/).
-If you later add JavaScript that uses fetch(), APIs, or tries to load local JSON files, you might run into browser security restrictions (CORS). But for pure HTML + inline or linked CSS/JS — double-clicking works fine.
