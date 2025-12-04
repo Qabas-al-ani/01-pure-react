@@ -8,5 +8,3 @@ If you’ve been hosting with us for a while, or just started out, we’d love t
 What has worked best for you, such as speed, uptime, support, or tools?
 
 What could we improve?
-
-Which plan are you using (Shared, VPS, Dedicated, or Managed WordPress)?
