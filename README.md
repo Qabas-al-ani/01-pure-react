@@ -14,5 +14,3 @@ Which plan are you using (Shared, VPS, Dedicated, or Managed WordPress)?
 We’ll be checking in regularly to answer questions and collect feedback to share with our internal teams. Good or bad, we genuinely want to hear it. Transparency helps us keep improving.
 
 Thanks for helping us build a better hosting experience for everyone here.
-
-The InMotion Hosting Team
