@@ -6,5 +6,3 @@ This thread is a place for anyone using InMotion Hosting to share honest feedbac
 If you’ve been hosting with us for a while, or just started out, we’d love to hear from you:
 
 What has worked best for you, such as speed, uptime, support, or tools?
-
-What could we improve?
