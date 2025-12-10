@@ -5,8 +5,6 @@ This thread is a place for anyone using InMotion Hosting to share honest feedbac
 
 # Docker has specific installation instructions for each operating system.
 
-# Please refer to the official documentation at https://docker.com/get-started/
-
 # Pull the Node.js Docker image:
 
 docker pull node:24-alpine
