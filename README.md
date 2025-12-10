@@ -10,5 +10,3 @@ This thread is a place for anyone using InMotion Hosting to share honest feedbac
 # Pull the Node.js Docker image:
 
 docker pull node:24-alpine
-
-# Create a Node.js container and start a Shell session:
