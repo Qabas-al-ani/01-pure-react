@@ -20,6 +20,3 @@ docker run -it --rm --entrypoint sh node:24-alpine
 node -v # Should print "v24.12.0".
 
 # Verify npm version:
-
-npm -v # Should print "11.6.2".
-PowerShell
