@@ -12,5 +12,3 @@ This thread is a place for anyone using InMotion Hosting to share honest feedbac
 docker pull node:24-alpine
 
 # Create a Node.js container and start a Shell session:
-
-docker run -it --rm --entrypoint sh node:24-alpine
