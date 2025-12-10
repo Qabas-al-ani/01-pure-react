@@ -16,7 +16,3 @@ docker pull node:24-alpine
 docker run -it --rm --entrypoint sh node:24-alpine
 
 # Verify the Node.js version:
-
-node -v # Should print "v24.12.0".
-
-# Verify npm version:
