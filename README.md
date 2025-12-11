@@ -15,7 +15,3 @@ Close:
 VSCode terminal tabs
 
 Any open file inside node_modules
-
-Antivirus temporarily (if needed)
-
-⚙️ 5. Run Vite with admin privileges
