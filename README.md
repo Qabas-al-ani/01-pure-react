@@ -19,9 +19,3 @@ Any open file inside node_modules
 Antivirus temporarily (if needed)
 
 ⚙️ 5. Run Vite with admin privileges
-
-Open PowerShell/Command Prompt as Administrator:
-
-npm run dev
-
-If the issue continues
