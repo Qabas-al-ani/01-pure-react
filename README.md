@@ -9,9 +9,3 @@ This thread is a place for anyone using InMotion Hosting to share honest feedbac
 
 docker pull node:24-alpine
 🛡️ 4. Make sure nothing is locking the folder
-
-Close:
-
-VSCode terminal tabs
-
-Any open file inside node_modules
