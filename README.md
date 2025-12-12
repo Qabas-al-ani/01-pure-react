@@ -19,7 +19,3 @@ Tell me:
 Your Windows version
 
 Node version (node -v)
-
-Whether OneDrive is still syncing
-
-I can give you the exact best fix for your setup.
