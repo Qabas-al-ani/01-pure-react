@@ -15,7 +15,3 @@ npm run dev
 If the issue continues
 
 Tell me:
-
-Your Windows version
-
-Node version (node -v)
