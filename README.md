@@ -11,7 +11,3 @@ Antivirus temporarily (if needed)
 Open PowerShell/Command Prompt as Administrator:
 
 npm run dev
-
-If the issue continues
-
-Tell me:
