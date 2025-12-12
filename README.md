@@ -3,7 +3,3 @@ We know choosing a hosting provider often comes down to real experiences, not ju
 VSCode terminal tabs
 
 Any open file inside node_modules
-
-Antivirus temporarily (if needed)
-
-⚙️ 5. Run Vite with admin privileges
