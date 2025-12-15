@@ -10,5 +10,3 @@ First commit 🚀
 03-Developer-Skills
 v2.3 (new lectures)
 last year
-04-HTML-CSS/final
-First commit 🚀
