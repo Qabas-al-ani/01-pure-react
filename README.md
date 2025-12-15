@@ -12,5 +12,3 @@ v2.3 (new lectures)
 last year
 04-HTML-CSS/final
 First commit 🚀
-5 years ago
-05-Guess-My-Number
