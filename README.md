@@ -6,5 +6,3 @@ v2.2
 4 years ago
 02-Fundamentals-Part-2
 First commit 🚀
-5 years ago
-03-Developer-Skills
