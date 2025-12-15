@@ -16,4 +16,3 @@ First commit 🚀
 05-Guess-My-Number
 First commit 🚀
 5 years ago
-06-Modal
